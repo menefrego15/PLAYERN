@@ -1,0 +1,44 @@
+/* variables */
+
+:root {
+    --primary: white;
+    --secondary: ;
+}
+
+/* reset */
+
+li {
+    list-style-type: none;
+}
+
+body,p,a,ul,li{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background: linear-gradient(133.66deg, #2D00F7 -0.9%, #F20000 80.57%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sizelogo{
+    width: 250px;
+    margin-top: 50%;
+}
+
+.selector {
+    margin-top: 80px;
+}
+
+.line {
+    position: absolute;
+width: 692px;
+height: 5px;
+left: 70px;
+top: 144px;
+
+background: #FFFFFF;
+}

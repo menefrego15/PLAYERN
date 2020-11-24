@@ -1,0 +1,59 @@
+/* variables */
+
+:root {
+    --primary: white;
+    --secondary: ;
+}
+
+/* reset */
+
+li {
+    list-style-type: none;
+}
+
+body,p,a,ul,li{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background: linear-gradient(133.66deg, #2D00F7 -0.9%, #F20000 80.57%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sizelogo{
+    width: 250px;
+    margin-top: 50%;
+}
+
+#link {
+    margin-top: 20%;
+    padding-top: 13px;
+    color: transparent;
+    font-weight: 700;
+    text-align: center;
+    background-color: white;
+    border-radius: 60px;
+    overflow: hidden;
+    width: 150px;
+    height: 50px;
+}
+
+span{
+    background: linear-gradient(133.66deg, #2D00F7 -0.9%, #F20000 80.57%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    display: block;
+    
+}
+
+#login {
+    margin-top: 3%;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
