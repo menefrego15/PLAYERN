@@ -70,6 +70,8 @@ span{
     height: 55px;
     border: solid white 2px;
     border-radius: 30px;
+    color: white;
+    text-align: center;
 }
 
 ::placeholder{
